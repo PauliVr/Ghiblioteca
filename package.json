@@ -1,0 +1,17 @@
+{
+  "name": "ghibliapi",
+  "version": "1.0.0",
+  "description": "ghibliFetchAPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  },
+  "dependencies": {
+    "lit": "^2.8.0"
+  }
+}
